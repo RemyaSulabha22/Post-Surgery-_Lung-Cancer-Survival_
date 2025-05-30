@@ -2,13 +2,16 @@
 
 Problem Statement 
 
+Traditional methods for predicting post-surgery survival rates rely on factors such as pain before surgery, dyspnoea, Type 2 diabetes, and other clinical indicators. While these assessments are valuable, they are often time-consuming and may lack precision. This project introduces a machine learning-based approach to improve the accuracy and efficiency of survival predictions following lung surgery.
 
-Traditional method vs Machine learning in detecting Post-surgerysurvival rate:
+By analyzing patient data through various ML models, the system can determine survival likelihood with greater consistency. The models used in this project include:
 
-
-The traditional methods of detectingpost-surgerysurvival ratesinclude factors such aspain beforesurgery, Dyspnoea Before Surgery, Type2Diabetes, and so on.All factors are considered by doctorswhen determining whether someone cansurvive post-surgery.However, these traditional diagnosticmethods aretime-consuming and the accuracy is alsolow.The machine learning model, on the otherhand, takes all parameters and accurately detects whether a person can survive post-lung surgery.
-The following ML models are used to detect the Post Surgery Survival rate.
 Logistic Regression
-Support Vector machines
-Decision tree classifier
-Random Forest classifier
+
+Support Vector Machines (SVM)
+
+Decision Tree Classifier
+
+Random Forest Classifier
+
+This approach aims to support medical professionals with data-driven insights, enhancing decision-making and patient care.
