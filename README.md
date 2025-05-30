@@ -1,4 +1,4 @@
-# Post-Surgery-_Lung-Cancer-Survival_rate_Detection
+# Post-Surgery-_Lung-Cancer-Survival_rate_Prediction
 
 Problem Statement 
 
